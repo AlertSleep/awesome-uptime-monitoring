@@ -120,6 +120,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Global checkpoints
 - 🔗 [checklyhq.com](https://www.checklyhq.com)
 
+### **Exit1**
+- Unlimited uptime monitoring with 1-minute checks, instant alerts, and SSL coverage — completely free.
+- **Key features:**
+    - Unlimited monitors with 1-minute check intervals
+    - Instant alerts via multiple channels
+    - SSL certificate monitoring
+    - Beautiful status pages
+- 🔗 [exit1.dev](https://exit1.dev)
+
 ### **Freshping by Freshworks**
 - Free website monitoring with unlimited checks and 50 endpoints.
 - **Key features:**
