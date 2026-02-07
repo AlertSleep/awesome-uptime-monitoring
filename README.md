@@ -66,6 +66,17 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Status pages
 - 🔗 [acumenlogs.com](https://www.acumenlogs.com)
 
+### **ArkWatch**
+- AI-powered web monitoring API with intelligent change detection and email alerts.
+- **Key features:**
+    - REST API-first design for developer workflows
+    - AI-powered change analysis (Mistral) - summarizes what changed and why it matters
+    - Configurable scan intervals from 1 minute to 24 hours
+    - JavaScript rendering support (Playwright) for SPAs
+    - GDPR-compliant, EU-hosted (Hetzner, Germany)
+    - Free tier: 3 monitors, no credit card required
+- 🔗 [watch.arkforge.fr](https://watch.arkforge.fr)
+
 ### **Pingdom**
 - Industry-leading website monitoring with synthetic checks and real user monitoring.
 - **Key features:**
