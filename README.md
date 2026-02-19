@@ -200,6 +200,24 @@ Self-hosted monitoring solutions for complete control and data privacy.
     - Highly customizable
 - 🔗 [nagios.org](https://www.nagios.org)
 
+### **SSL Certificate Monitor**
+- Open-source SSL/TLS certificate expiry monitoring tool built on Cloudflare Workers.
+- **Key features:**
+    - Zero infrastructure required (serverless)
+    - Real-time certificate chain validation
+    - Days-to-expiry countdown
+    - Issuer and validity period details
+- 🔗 [github.com/brancogao/ssl-certificate-monitor](https://github.com/brancogao/ssl-certificate-monitor)
+
+### **DNS Propagation Checker**
+- Open-source global DNS propagation monitoring tool.
+- **Key features:**
+    - Query 10+ global DNS servers
+    - Support for A, AAAA, CNAME, MX, NS, TXT records
+    - Visual propagation percentage
+    - Real-time results
+- 🔗 [github.com/brancogao/dns-propagation-checker](https://github.com/brancogao/dns-propagation-checker)
+
 ---
 
 ## Synthetic Monitoring
