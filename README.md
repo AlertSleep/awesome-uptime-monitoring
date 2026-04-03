@@ -140,6 +140,16 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **Spork**
+- Uptime monitoring and status pages that ship like your code.
+- **Key features:**
+    - CLI, Terraform provider, and API as first-class citizens
+    - Status pages with custom domains included in every plan
+    - Multi-region consensus (both regions must fail to trigger alert)
+    - Slack, Discord, PagerDuty, Teams, Telegram, and webhook alerts
+    - Plans from $4/mo with status pages and custom domains included
+- 🔗 [sporkops.com](https://sporkops.com)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
