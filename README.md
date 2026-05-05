@@ -93,6 +93,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Global testing locations
 - 🔗 [datadoghq.com](https://www.datadoghq.com)
 
+### **Middleware Synthetic Monitoring**
+- Part of the Middleware observability platform with proactive uptime, API and user journey testing.
+- **Key features:**
+    - Scheduled API and uptime checks
+    - Browser-based synthetic user journeys
+    - Real-time alerts on failures and latency
+    - Response validation with performance insights
+- 🔗 [Middleware.io](https://middleware.io/)
+
 ### **StatusCake**
 - Affordable uptime and performance monitoring with global test servers.
 - **Key features:**
