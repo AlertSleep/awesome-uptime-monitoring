@@ -120,6 +120,17 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Global checkpoints
 - 🔗 [checklyhq.com](https://www.checklyhq.com)
 
+### **DevHelm**
+- Developer-first uptime monitoring platform with dependency intelligence and config-as-code.
+- **Key features:**
+    - Multi-protocol monitoring (HTTP, DNS, TCP, ICMP, heartbeat)
+    - Dependency intelligence tracking 80+ third-party providers
+    - Hosted status pages with custom domains
+    - Full developer surface: CLI, Python SDK, JS/TS SDK, Terraform provider, MCP server
+    - Config-as-code with `devhelm.yml`
+    - Free tier: 50 monitors + status page
+- 🔗 [devhelm.io](https://devhelm.io)
+
 ### **Freshping by Freshworks**
 - Free website monitoring with unlimited checks and 50 endpoints.
 - **Key features:**
