@@ -140,6 +140,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **Oh Dear**
+- Website monitoring covering uptime, performance, SSL certificates, broken links, and DNS.
+- **Key features:**
+    - Uptime and performance monitoring
+    - SSL certificate and certificate health checks
+    - Broken link and mixed content crawling
+    - Hosted public and private status pages
+- 🔗 [ohdear.app](https://ohdear.app)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
