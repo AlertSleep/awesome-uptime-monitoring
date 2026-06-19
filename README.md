@@ -57,6 +57,17 @@ This list is designed for developers, SREs, DevOps engineers, founders, and anyo
 
 Fully managed cloud-based monitoring platforms that require no infrastructure setup.
 
+
+### **Vigilmon**
+- Open-source uptime monitoring with instant Slack/email/webhook alerts.
+- **Key features:**
+    - Monitors websites, APIs, and services 24/7
+    - Instant Slack, email, and webhook notifications
+    - Free plan available for small teams
+    - Built for developers and SREs
+    - Open-source codebase
+- 🔗 [vigilmon.online](https://vigilmon.online)
+
 ### **AcumenLogs**
 - First class Uptime monitoring
 - **Key features:**
@@ -145,6 +156,16 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
 ## Open-Source & Self-Hosted Tools
 
 Self-hosted monitoring solutions for complete control and data privacy.
+
+### **Vigilmon**
+- Open-source uptime monitoring platform with hosted free tier and Slack/email/webhook alerting.
+- **Key features:**
+    - HTTP, API, and service health monitoring
+    - Slack, email, and webhook notifications
+    - Free plan for developers and small teams
+    - Open-source Laravel codebase (self-hostable)
+- 🔗 [vigilmon.online](https://vigilmon.online)
+
 
 ### **Uptime Kuma**
 - Modern, self-hosted monitoring tool with a beautiful UI.
