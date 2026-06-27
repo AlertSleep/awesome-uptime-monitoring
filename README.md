@@ -93,6 +93,20 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Global testing locations
 - 🔗 [datadoghq.com](https://www.datadoghq.com)
 
+### **Kapient**
+- All-in-one website monitoring with AI-powered fix instructions for non-technical owners.
+- **Key features:**
+  * Server health, uptime, and SSL certificate monitoring
+  * DNS record integrity and misconfiguration detection
+  * Email deliverability: SPF, DKIM, and DMARC validation with blacklist monitoring
+  * Security vulnerability scanning with CVE matching against your detected stack
+  * Technical SEO: broken links, meta tags, sitemap, and Google indexing status
+  * ADA/WCAG accessibility compliance monitoring
+  * Privacy and cookie policy monitoring
+  * Google Business Profile accuracy monitoring
+  * AI-generated repair instructions tailored to your specific tech stack
+- 🔗 [kapient.com](https://kapient.com)
+
 ### **StatusCake**
 - Affordable uptime and performance monitoring with global test servers.
 - **Key features:**
