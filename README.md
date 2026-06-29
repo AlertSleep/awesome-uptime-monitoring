@@ -140,6 +140,18 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **ePulz.io**
+- EU-hosted website and uptime monitoring focused on privacy (GDPR friendly) and affordability.
+- **Key features:**
+    - Uptime checks from multiple EU regions (consensus, fewer false alarms)
+    - SSL certificate and domain (WHOIS) expiry monitoring
+    - Cron/heartbeat, visual regression and API/multi-step checks
+    - Public status pages with custom domain
+    - LAN agent for internal services
+    - Alerts via email, Telegram, Slack and MS Teams
+    - 14 languages, free trial, paid from €4/month
+- 🔗 [epulz.io](https://epulz.io)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
