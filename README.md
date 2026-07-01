@@ -111,6 +111,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Heartbeat monitoring
 - 🔗 [betteruptime.com](https://betteruptime.com)
 
+### **Drumbeats**
+- Cron, heartbeat, and uptime monitoring for background jobs and services, with incident management and status pages. One curl ping to instrument a job — no agent or SDK.
+- **Key features:**
+    - Free for up to 50 monitors, 200K Beats/mo, no credit card
+    - Cron/heartbeat, HTTP uptime, and status-page monitoring in one platform
+    - Usage-based pricing (idle monitors cost nothing)
+    - All notification channels on every plan (Email, Slack, Telegram, Discord, Webhooks)
+- 🔗 [drumbeats.io](https://drumbeats.io)
+
 ### **Checkly**
 - Monitoring-as-code platform for API and browser checks using JavaScript.
 - **Key features:**
