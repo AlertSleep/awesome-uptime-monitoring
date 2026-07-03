@@ -142,6 +142,8 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
 
 ---
 
+- [sunwatch](https://sunwatch.sunfamily.xyz) — Crypto-paid uptime monitoring for side projects. 3 free monitors; extras are $1/monitor/month via USDC on Base. Webhook alerts on down/up state changes. [Source](https://github.com/ryan-knowone/sunwatch)
+
 ## Open-Source & Self-Hosted Tools
 
 Self-hosted monitoring solutions for complete control and data privacy.
