@@ -57,6 +57,15 @@ This list is designed for developers, SREs, DevOps engineers, founders, and anyo
 
 Fully managed cloud-based monitoring platforms that require no infrastructure setup.
 
+### **Pingzo**
+- Modern uptime monitoring & status pages with instant WhatsApp alerts.
+- **Key features:**
+  - HTTP response, SSL certificate & Cron heartbeat monitoring
+  - Instant WhatsApp, Telegram & Email failure alerts
+  - Custom status pages with embedded status widgets
+  - Free tier available
+- [pingzoapp.com](https://www.pingzoapp.com)
+
 ### **AcumenLogs**
 - First class Uptime monitoring
 - **Key features:**
