@@ -140,6 +140,13 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **Screpy**
+- Website monitoring for uptime, page speed, Core Web Vitals, and technical SEO.
+- **Key features:**
+    - Uptime alerts for important pages
+    - Page speed and Core Web Vitals monitoring
+    - Technical SEO audits and broken-link checks
+- 🔗 [screpy.com](https://screpy.com)
 ---
 
 ## Open-Source & Self-Hosted Tools
