@@ -75,6 +75,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Root cause analysis
 - 🔗 [pingdom.com](https://www.pingdom.com)
 
+### **Pulsecima Pulse**
+- Multi-region uptime monitoring that only alerts when multiple regions independently agree something's down.
+- **Key features:**
+    - Quorum-based alerting across 3 regions (cuts false-positive pages)
+    - Free Heartbeat Checks — dead-man's-switch monitoring for cron jobs
+    - Public status pages
+    - Slack, webhook & PagerDuty alert routing
+- 🔗 [pulse.pulsecima.com](https://pulse.pulsecima.com)
+
 ### **UptimeRobot**
 - Popular free and paid monitoring service with a generous free tier.
 - **Key features:**
