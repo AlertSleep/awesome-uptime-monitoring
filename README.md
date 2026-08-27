@@ -140,6 +140,16 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **Sitewatch**
+- Website monitoring that checks whether pages actually work for visitors, not just whether the server responds.
+- **Key features:**
+    - Broken asset, link, and API monitoring
+    - SSL certificate, domain expiry, and DNS monitoring
+    - Performance regression tracking and multi-region checks
+    - Public status pages and automated health reports
+    - Email, Slack, webhook, PagerDuty, Opsgenie, and SMS alerts
+- 🔗 [getsitewatch.com](https://getsitewatch.com)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
