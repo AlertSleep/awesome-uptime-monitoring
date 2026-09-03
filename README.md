@@ -45,6 +45,7 @@ This list is designed for developers, SREs, DevOps engineers, founders, and anyo
 ---
 
 ## Hosted / SaaS Monitoring Tools
+
 ### **whatbroke.today**
 - AI-powered outage aggregator that monitors 100+ cloud services and sends alerts when they go down.
 - **Key features:**
@@ -128,6 +129,19 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Status pages included
     - Slack, email, and webhook alerts
 - 🔗 [freshping.io](https://www.freshping.io)
+
+### **HyperMonitors**
+- Uptime monitoring and status pages with on-call escalation, heartbeat checks and a built-in MCP server. GDPR-compliant, hosted in Switzerland.
+- **Key features:**
+    - 5 monitors free (5-minute checks); 60-second checks on paid plans
+    - HTTP/keyword, authenticated API, TCP port, ping, DNS and SSL/domain expiry monitoring
+    - Heartbeat (cron job) monitoring with grace periods
+    - Multi-region checks with cross-region confirmation to avoid false alarms
+    - On-call rotations, escalations and maintenance windows
+    - Alerts via Slack, Telegram, Discord, MS Teams, PagerDuty, SMS, email and webhooks
+    - Branded status pages on a custom domain with subscriber notifications
+    - REST API, Postman collection and MCP server for Claude Code / Cursor / ChatGPT
+- 🔗 [hypermonitors.com](https://www.hypermonitors.com)
 
 ### **UptimeObserver**
 - Uptime monitoring that catches problems before they cost you money.
