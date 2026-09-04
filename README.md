@@ -84,6 +84,15 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - HTTP, keyword, port, and ping monitoring
 - 🔗 [uptimerobot.com](https://uptimerobot.com)
 
+### **Are We Up?**
+- Hosted uptime monitoring for developers, small teams, and agencies.
+- **Key features:**
+    - HTTP, API, ping, port, DNS, and heartbeat monitoring
+    - SSL certificate and domain-expiry checks
+    - Email, Telegram, Slack, Discord, Teams, PagerDuty, Zapier, and webhook alerts
+    - Public status pages and team workspaces
+- 🔗 [areweup.app](https://areweup.app)
+
 ### **Datadog Synthetics**
 - Part of the Datadog observability platform with advanced API and browser testing.
 - **Key features:**
