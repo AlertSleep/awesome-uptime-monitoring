@@ -140,6 +140,16 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
 - 🔗 [uptimeobserver.com](https://uptimeobserver.com)
 
+### **Fokusflow**
+- Dashboard for app founders that groups each app's services and flags provider outages.
+- **Key features:**
+    - HTTPS website availability and response-time checks
+    - Provider outage signals for connected services
+    - Integrations with GitHub, Vercel, Supabase, Sentry, Cloudflare and Railway
+    - Per-app recurring revenue tracking (Stripe, pilot)
+    - Free plan
+- 🔗 [fokusflow.io](https://fokusflow.io)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
