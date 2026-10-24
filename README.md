@@ -242,6 +242,15 @@ Tools that simulate user interactions to test functionality and performance.
     - 850+ global testing nodes
 - 🔗 [catchpoint.com](https://www.catchpoint.com)
 
+### **MCP Canary**
+- Synthetic monitoring for remote MCP (Model Context Protocol) servers. It calls a real tool on a schedule and checks the answer, so it catches a server that answers `tools/list` while its backend is down.
+- **Key features:**
+    - Tool-call checks with assertions on the JSON result
+    - Tool contract change detection
+    - Email and signed webhook alerts
+    - Set up from a CLI by a coding agent, no browser signup
+- 🔗 [mcpcanary.com](https://mcpcanary.com)
+
 ---
 
 ## Real User Monitoring (RUM)
