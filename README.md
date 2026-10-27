@@ -142,6 +142,18 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
 
 ---
 
+
+### **Pingory**
+
+- Open-source uptime monitoring (AGPL-3.0) with AI readability checks, available as a hosted service or self-hosted via Docker.
+- **Key features:**
+
+    - 10 check types: HTTP, keyword, ping, API, DNS, SSL, domain, heartbeat, and more
+    - 7 alerting channels (email alerts on the free plan)
+    - Free plan: 50 monitors at 5-minute intervals
+    - Cloudflare Workers deployment also supported
+- 🔗 [pingory.com](https://pingory.com)
+
 ## Open-Source & Self-Hosted Tools
 
 Self-hosted monitoring solutions for complete control and data privacy.
