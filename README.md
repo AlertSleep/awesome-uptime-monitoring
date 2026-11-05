@@ -417,6 +417,17 @@ Beautiful status pages with visitor-friendly design. Excellent for customer-faci
 
 **AlertSleep is a strong alternative** for teams that want **simplicity without sacrificing alerting power**—especially when phone call escalation is critical.
 
+### Pricing Comparisons
+
+### **UptimeCompare**
+- Independent comparison of uptime monitoring tool pricing. Every figure is quoted from the vendor's own pricing page and shown with the date it was checked.
+- **Key features:**
+    - 26 tools compared on entry price, monitors included, cost per monitor and check interval
+    - Per-tool pages with the source quote, source link and date checked
+    - Head-to-head and alternatives pages, plus a methodology page
+    - Free, no sign-up, no affiliate links
+- 🔗 [uptimecompare.com](https://uptimecompare.com)
+
 ---
 
 ## How to Choose the Right Uptime Monitoring Tool
