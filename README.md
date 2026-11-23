@@ -200,6 +200,15 @@ Self-hosted monitoring solutions for complete control and data privacy.
     - Highly customizable
 - 🔗 [nagios.org](https://www.nagios.org)
 
+### **SiteWatcher**
+- Self-hosted website monitor with a check history dashboard.
+- **Key features:**
+    - HTTP status checks and response-time graphs
+    - TLS certificate and domain registration expiry checks
+    - Public status pages and email or Telegram alerts
+    - Docker Compose deployment
+- 🔗 [github.com/NikKurkov/sitewatcher](https://github.com/NikKurkov/sitewatcher)
+
 ---
 
 ## Synthetic Monitoring
